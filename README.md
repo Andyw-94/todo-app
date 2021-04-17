@@ -1,3 +1,10 @@
+# To-do app
+
+Deploy live with Firebase!
+https://todo-app-874fe.web.app/
+
+![todo-app](https://user-images.githubusercontent.com/78442208/114101210-43736480-987a-11eb-99bc-b20afa530709.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
