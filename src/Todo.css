@@ -1,0 +1,14 @@
+.todo__list {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.todo__icons {
+    display: flex;
+    justify-content: center;
+    object-fit: contain;
+    margin-right: 20px;
+}
